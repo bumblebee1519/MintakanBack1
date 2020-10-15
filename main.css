@@ -461,7 +461,7 @@ li{
 @@media screen and (max-width: 850px) {
   body{
       /* background-image: linear-gradient(to left, #c396ba, #c06d85); */
-      background-image: url("images/cidelorosa.png");
+      background-image: url("images/cidelorosa3.png");
       object-fit: cover;
       object-position: center top;
     }
@@ -475,7 +475,7 @@ li{
 @media screen and (max-width: 768px){
   body{
       /* background-image: linear-gradient(to left, #c396ba, #c06d85) ; */
-      background-image: url("images/cielorosa.png");
+      background-image: url("images/cielorosa3.png");
       object-fit: cover;
       object-position: center top;
   }
